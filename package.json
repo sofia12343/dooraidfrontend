@@ -1,0 +1,21 @@
+{
+  "name": "bulletin-board",
+  "version": "0.1.0",
+  "homepage": "http://sofiaferraro.panel.uwe.ac.uk/iotarduinofrontend/build/",
+  "private": true,
+  "dependencies": {
+    "pubnub": "^4.20.2",
+    "pubnub-react": "^1.2.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-icons": "^2.2.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
